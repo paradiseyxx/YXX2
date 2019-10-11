@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Array/Copy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Array/Displace.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Array/GetDay.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Array/Matrix.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Array/Rakel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Array/Reference.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Array/Repeat.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Array/Swap.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Array/Tautog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Array/Taxis.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Array/Trap.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Extends/ObjectInstance.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Extends/OverWriteEquals.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Extends/Parallelogram.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Number/AnyFuction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Number/BigDecimalDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Number/BigIntegerDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Number/Charac.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Number/ExponentFuction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Number/GetBoolean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Number/IntFuction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Number/MathRandom.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Number/MathRandomChar.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Number/RandomDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Number/TrigonometricFunction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Number/UpperOrLower.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/String/Blak.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/String/Division.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/String/Length.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/String/NewStr.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/String/Opinion.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/String/Ref.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/String/SearchA.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/String/StartOrEnd.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/String/StrB.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/String/Subs.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/String/UpAndLower.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/String/Wordbook.java" charset="GBK" />
+  </component>
+</project>
