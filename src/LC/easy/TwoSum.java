@@ -3,6 +3,8 @@ package LC.easy;
 import java.util.Scanner;
 
 /**
+ * Created by yxx on 2019/10/17.
+ *
  * 1. 两数之和
  */
 public class TwoSum {
