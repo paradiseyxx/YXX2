@@ -19,7 +19,7 @@ public class LengthOfLastWord {
     }
 
     public int lengthOfLastWord(String s){
-        int count = 1;
+        /*int count = 1;
         if (s.equals("")){
             return 0;
         }else {
@@ -32,7 +32,7 @@ public class LengthOfLastWord {
                     }
                 }
             }
-        }
-        return count;
+        }*/
+        return 0;
     }
 }
