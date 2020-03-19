@@ -13,7 +13,7 @@ public class LengthOfLastWord {
         System.out.println("str:");
         String str = sc.nextLine();
         LengthOfLastWord lolw = new LengthOfLastWord();*/
-        String str = "hello world";
+        String str = "a";
         LengthOfLastWord lolw = new LengthOfLastWord();
         System.out.println(lolw.lengthOfLastWord(str));
     }
@@ -33,6 +33,17 @@ public class LengthOfLastWord {
                 }
             }
         }*/
-        return 0;
+
+        int end = s.length() - 1;
+        while (end >= 0 && s.charAt(end) == ' '){
+            end--;
+        }if (end < 0){
+            return 0;
+        }
+        int start = end;
+        while (start >= 0 && s.charAt(start) != ' '){
+            start--;
+        }
+        return end - start;
     }
 }
