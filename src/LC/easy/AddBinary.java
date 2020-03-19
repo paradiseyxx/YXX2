@@ -69,5 +69,6 @@ public class AddBinary {
         }
         String str = sb1.toString();
         return str;*/
+        return null;
     }
 }
