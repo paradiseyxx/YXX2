@@ -22,6 +22,17 @@ public class AddBinary {
     public String addBinary(String a, String b){
         //return Integer.toBinaryString(Integer.parseInt(a,2) + Integer.parseInt(b, 2));
 
+        int ca = 0;
+        StringBuilder sb = new StringBuilder();
+        for (int i = a.length() - 1, j = b.length() - 1;i >= 0 || j >= 0; i--, j--){
+            int sum = ca;
+            sum += i >= 0 ? a.charAt(i) - '0' : 0;
+            sum += j >= 0 ? b.charAt(j) - '0' : 0;
+            sb.append(sum % 2);
+            ca = sum / 2;
+        }
+        sb.append(ca == 1 ? 1 : "");
+        return sb.reverse().toString();
 
 
         /*StringBuilder c = new StringBuilder();
@@ -69,6 +80,6 @@ public class AddBinary {
         }
         String str = sb1.toString();
         return str;*/
-        return null;
+
     }
 }
