@@ -1,4 +1,4 @@
-package DataStructure.Listnode;
+package DataStructure.Doublelinklist;
 
 /**
  * Created by yxx on 2020/5/29.
@@ -10,6 +10,8 @@ public class Node {
     public int data;
     //÷∏’Î”Ú
     public Node next;
+
+    public Node prev;
 
     public Node(int val){
         this.data = val;
